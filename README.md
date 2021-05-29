@@ -1,19 +1,19 @@
 # Twitter-Sentiment-Analysis
 a) Using Logistic Regression
-1. Gradient Descent to train the model
-2. Data Preprocessing involve tokenization, stemming, removing stop words and punctuations.
-3. Sigmoid function to build the model
+  1. Gradient Descent to train the model
+  2. Data Preprocessing involve tokenization, stemming, removing stop words and punctuations.
+  3. Sigmoid function to build the model
 b) Using Naive Bayes
-1. Data Preprocessing involve tokenization, stemming, removing stop words and punctuations.
-2. Calculating probabilities using laplacian smoothing
-3. Train the model using principles of naive bayes theorem, where P(posterior)= P(prior) * (liklihood)
-4. Calculating positive to negative ratio for a word
+  1. Data Preprocessing involve tokenization, stemming, removing stop words and punctuations.
+  2. Calculating probabilities using laplacian smoothing
+  3. Train the model using principles of naive bayes theorem, where P(posterior)= P(prior) * (liklihood)
+  4. Calculating positive to negative ratio for a word
 
 ## Dependencies
-pdb
-nltk
-numpy
-pandas
-string 
-math
+*pdb
+*nltk
+*numpy
+*pandas
+*string 
+*math
 
