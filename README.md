@@ -5,7 +5,7 @@
   3. Sigmoid function to build the model
 ## Using Naive Bayes
   1. Data Preprocessing involve tokenization, stemming, removing stop words and punctuations.
-  2. Calculating probabilities using laplacian smoothing
+  2. Calculating conditional probabilities using laplacian smoothing
   3. Train the model using principles of naive bayes theorem, where P(posterior)= P(prior) * (liklihood)
   4. Calculating positive to negative ratio for a word
 
